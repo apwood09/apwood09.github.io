@@ -1,10 +1,10 @@
-[Project Name (e.g., My Personal Portfolio Website)]
+## Portfolio Website
 
-A responsive personal portfolio website built using only HTML and CSS to showcase my skills, projects, and achievements. This project serves as a foundational exercise in web development and design.
+A responsive personal portfolio website built using only HTML and CSS to showcase my skills and projects. This project serves as a foundational exercise in web development and design.
 
 ## Live Demo
 
-You can view the live website here: **[Link to your live demo, e.g., GitHub Pages URL](https://your-username.github.io)**.
+You can view the live website here: **(https://your-username.github.io)**.
 
 ## Features
 
