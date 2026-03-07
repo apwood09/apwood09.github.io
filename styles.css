@@ -44,6 +44,10 @@ p {
     color: #ffff; /* white */
 }
 
+footer { 
+    color: #ffff; /* white */
+}
+
 /* clickable link colors */ 
 /* unvisited */ 
 a:link {
