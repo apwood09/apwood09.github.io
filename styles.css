@@ -1,0 +1,66 @@
+/* centers header content */
+.text-center-header {
+    text-align: center;
+}
+
+/* displays projects as grid */
+.projects-grid {
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.project-item {
+    border: 1px solid #ffff; /* white */
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.project-item img {
+    max-width: 100%; /* images responsive */
+    height: auto;
+}
+
+/* colors for page background & text */
+body {
+    background-color: #111827; /* deep dark blue */
+}
+
+h1 {
+    color: #ffff; /* white */
+}
+
+h2 {
+    color: #008080; /* teal */ 
+}
+
+li {
+    color:#ffff; /* white */
+}
+
+p {
+    color: #ffff; /* white */
+}
+
+/* clickable link colors */ 
+/* unvisited */ 
+a:link {
+    color: #01c16a; /* bright green */
+}
+
+/* visited */ 
+a:visited {
+    color: #01c16a; /* bright green */
+}
+
+/* mouse over */
+a:hover {
+    color: #ffff; /* white */
+}
+
+/* selected link */
+a:active {
+    color: #0000; /* black */ 
+}
