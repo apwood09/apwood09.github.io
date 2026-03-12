@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 /* displays projects as grid */
 .projects-grid {
     display: grid; 
